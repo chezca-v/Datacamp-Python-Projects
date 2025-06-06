@@ -14,3 +14,8 @@ It uses the pandas library to read, clean, and analyze the data, and provides tw
 - duration: Most frequent movie duration (as an integer)
 
 - short_movie_count: Count of short action movies from the 1990s
+
+### Requirements:
+- Python 3
+- pandas
+- matplotlib
