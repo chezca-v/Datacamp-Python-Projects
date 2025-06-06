@@ -1,4 +1,4 @@
-📊 EDA: Netflix Movies from the 1990s
+# 📊 EDA: Netflix Movies from the 1990s
 This script performs basic exploratory data analysis (EDA) on netflix_data.csv to understand patterns in movie durations and genres during the 1990s. Specifically, it:
 
 - Filters the dataset to include only movies released from 1990 to 1999.
