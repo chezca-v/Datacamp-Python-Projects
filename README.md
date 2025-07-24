@@ -1,21 +1,43 @@
-# 📊 EDA: Netflix Movies from the 1990s
-This script performs basic exploratory data analysis (EDA) on netflix_data.csv to understand patterns in movie durations and genres during the 1990s. Specifically, it:
+# 🐍 DataCamp Python Projects — chezca-v
 
-- Filters the dataset to include only movies released from 1990 to 1999.
+This repository contains Python projects and exercises completed through [DataCamp](https://www.datacamp.com/) as part of my learning journey in data science and programming.
 
-- Identifies the most common movie duration (in minutes) for that decade.
+Each folder includes a hands-on project where I applied Python to solve real-world problems using data analysis, visualization, and machine learning techniques.
 
-- Counts how many short action movies (duration < 90 minutes) were released during this period.
+## 🧠 Skills Applied
+
+- Data wrangling using `pandas`
+- Data visualization with `matplotlib`, `seaborn`
+- Exploratory Data Analysis (EDA)
+- Writing clean, modular Python code
+- Predictive modeling using `scikit-learn`
+- Working with `.csv` datasets
+- Real-world problem solving with Jupyter Notebooks
+
+## 🚀 How to Use
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/chezca-v/Datacamp-Python-Projects.git
+   cd Datacamp-Python-Projects
+2. Open any .ipynb file in Jupyter Notebook, VS Code, or Google Colab.
+
+3. Run the cells step-by-step and review code comments and visualizations.
+
+## 📊 Sample Projects
+
+| Project Title                      | Description                                                       |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| 📺 `netflix_eda.ipynb`             | Analyzed movie durations and genres from Netflix's 1990s dataset  |
 
 
 
-It uses the pandas library to read, clean, and analyze the data, and provides two outputs:
+## 👩‍💻 Author
+Franchezca Natividad Z. Banayad
+- 📧 franchezca.bnyd@gmail.com
+- 🌐 github.com/chezca-v 
 
-- duration: Most frequent movie duration (as an integer)
-
-- short_movie_count: Count of short action movies from the 1990s
-
-### Requirements:
-- Python 3
-- pandas
-- matplotlib
+  
+## 📜 License
+This repository is for educational and portfolio purposes. Feel free to fork and reference for learning.
